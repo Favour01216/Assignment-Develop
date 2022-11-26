@@ -1,9 +1,11 @@
 # Assignment-Develop
-# Week 1:Reconstructing code Using HTML, CSS and Git
+
+Reconstructing code Using HTML, CSS and Git
+
 ## overview
 
-The customer company "Horiseon" has asked for a reorganisation of the coding for their website. They desire to 
-Ensure that there are no barriers preventing individuals with impairments from using their website. They included the following. 
+The customer company "Horiseon" has asked for a reorganisation of the coding for their website. They desire to
+Ensure that there are no barriers preventing individuals with impairments from using their website. They included the following.
 criterias:
 
 ## Acceptance Criteria
@@ -21,11 +23,15 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-## Usage 
+
+## Usage
+
 - Clicking any of the navigation bar on the webpage will direct you to the corresponding section on the page
-where the users can read more about the subject.
+  where the users can read more about the subject.
 - The website is designed to help users understand Optimization, Management, and Marketing more clearly.
 
 ## Resources
-- Github:https://github.com/Favour01216/Assignment-Develop
 
+![](./assets/images/live%20view.png)
+
+- link to deployed website; https://favour01216.github.io/Assignment-Develop/
